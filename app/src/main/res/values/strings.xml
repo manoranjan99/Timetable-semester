@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ICE B TT</string>
+    <string name="tab_text_1">Mon</string>
+    <string name="tab_text_2">Tue</string>
+    <string name="tab_text_3">Wed</string>
+    <string name="tab_text_4">Thur</string>
+    <string name="tab_text_5">Fri</string>
+    <string name="msg1">Success comes to those who have the will power to win over their snooze buttons</string>
+    <string name="msg2">Each good morning we are born again, what we do today is what matters most</string>
+    <string name="msg3">Today is going to be a really good day!</string>
+    <string name="msg4">The biggest sources of motivation are your own thoughts, so think big and motivate yourself to win. Good morning.</string>
+    <string name="msg5">This is not just another day, this is yet another chance to make your dreams come true</string>
+    <string name="msg6">You’ve got to get up every morning with determination if you’re going to go to bed with satisfaction</string>
+    <string name="msg7">I am Sure for you that Today is Going To Be a Great Day!!! Good Morning</string>
+
+
+
+    <string name="action_settings">CLASS TIME: 8:30 - 5:10</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="507dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/te2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            tools:layout_editor_absoluteX="5dp"
+            tools:layout_editor_absoluteY="71dp">
+
+            <TextView
+                android:id="@+id/t2"
+                android:layout_width="wrap_content"
+                android:layout_height="33dp"
+                android:layout_centerHorizontal="true"
+
+                android:text="   CHIR 13                           Chemistry | |"
+                android:textAppearance="@style/TextAppearance.AppCompat.Button" />”true”
+            android:layout_gravity=”center_vertical”
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/te3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            tools:layout_editor_absoluteX="5dp"
+            tools:layout_editor_absoluteY="140dp">
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="33dp"
+                android:layout_centerHorizontal="true"
+                android:text="  MAIR 21                         Mathematics  | |"
+                android:textAppearance="@style/TextAppearance.AppCompat.Button" />”true”
+            android:layout_gravity=”center_vertical”
+
+            android:textAppearance="@style/TextAppearance.AppCompat.Button" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/te4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            tools:layout_editor_absoluteX="5dp"
+            tools:layout_editor_absoluteY="168dp">
+
+            <TextView
+                android:id="@+id/t4"
+                android:layout_width="match_parent"
+                android:layout_height="33dp"
+                android:layout_centerHorizontal="true"
+                android:text="  ICPC 10                 Engineering Mechanics"
+                android:textAppearance="@style/TextAppearance.AppCompat.Button" />”true”
+            android:layout_gravity=”center_vertical”
+
+            android:textAppearance="@style/TextAppearance.AppCompat.Button" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/te5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            tools:layout_editor_absoluteX="5dp"
+            tools:layout_editor_absoluteY="243dp">
+
+            <TextView
+                android:id="@+id/t5"
+                android:layout_width="match_parent"
+                android:layout_height="33dp"
+                android:layout_centerHorizontal="true"
+                android:text="  PHIR 13                                PHYSICS | |"
+                android:textAppearance="@style/TextAppearance.AppCompat.Button" />”true”
+            android:layout_gravity=”center_vertical”
+
+            android:textAppearance="@style/TextAppearance.AppCompat.Button" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="95dp"
+            app:srcCompat="@drawable/t49"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="0dp" />
+
+        <LinearLayout
+            android:id="@+id/te1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            tools:layout_editor_absoluteX="5dp"
+            tools:layout_editor_absoluteY="31dp">
+
+            <TextView
+                android:id="@+id/t1"
+                android:layout_width="wrap_content"
+                android:layout_height="33dp"
+                android:layout_centerHorizontal="true"
+
+                android:text="                                                 ---------"
+                android:textAppearance="@style/TextAppearance.AppCompat.Button" />”true”
+            android:layout_gravity=”center_vertical”
+
+            android:textAppearance="@style/TextAppearance.AppCompat.Button" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/te6"
+            android:layout_width="375dp"
+            android:layout_height="51dp"
+            android:layout_centerHorizontal="true"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            tools:layout_editor_absoluteX="5dp"
+            tools:layout_editor_absoluteY="353dp">
+
+            <TextView
+                android:id="@+id/t6"
+                android:layout_width="match_parent"
+                android:layout_height="33dp"
+                android:layout_centerHorizontal="true"
+                android:text="                                                 ---------"
+                android:textAppearance="@style/TextAppearance.AppCompat.Button" />”true”
+            android:layout_gravity=”center_vertical”
+
+            android:textAppearance="@style/TextAppearance.AppCompat.Button" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/te7"
+            android:layout_width="375dp"
+            android:layout_height="51dp"
+            android:layout_centerHorizontal="true"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            tools:layout_editor_absoluteX="5dp"
+            tools:layout_editor_absoluteY="444dp">
+
+            <TextView
+                android:id="@+id/t8"
+                android:layout_width="match_parent"
+                android:layout_height="33dp"
+                android:layout_centerHorizontal="true"
+                android:text="                                                ---------"
+                android:textAppearance="@style/TextAppearance.AppCompat.Button" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/te8"
+            android:layout_width="375dp"
+            android:layout_height="51dp"
+            android:layout_centerHorizontal="true"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            tools:layout_editor_absoluteX="5dp"
+            tools:layout_editor_absoluteY="413dp">
+
+            <TextView
+                android:id="@+id/t9"
+                android:layout_width="match_parent"
+                android:layout_height="33dp"
+                android:layout_centerHorizontal="true"
+                android:text="                                                 ---------"
+                android:textAppearance="@style/TextAppearance.AppCompat.Button" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <![CDATA[
+
+
+
+        ”true”
+        android:layout_gravity=”center_vertical”
+
+        android:textAppearance="@style/TextAppearance.AppCompat.Button" />
+
+]]>
+</android.support.constraint.ConstraintLayout>
